@@ -363,7 +363,7 @@ def drop_depend(Depend dep):
 @reconnecting
 def activate_depend(Depend dep):
     """
-    Reactivate the depends 
+    Activate the depends 
 
     :param dep: :class:`.Depend` 
     """    
